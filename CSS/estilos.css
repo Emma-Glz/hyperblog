@@ -1,14 +1,15 @@
 body{
     color: rgb(58, 62, 66);
     text-align: center;
-    font-family: "Arial";
+    font-family: "vardana";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #container{
+    font-size: 30px;
     width: 70%;
-    padding: 1em;
+    padding: 1cm;
     text-align: left;
     border: 1px solid rgb(68, 59, 59);
     margin: 0 auto;
